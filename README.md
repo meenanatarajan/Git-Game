@@ -4,3 +4,5 @@ This is a terminal game designed to test your knowledge of git commands. Each le
 Clone this repository by running:
 
 Git clone https://github.com/meenanatarajan/Git-Game.git
+
+change 3
