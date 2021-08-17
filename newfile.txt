@@ -1,0 +1,8 @@
+Reason for Forking:
+Improving someone's code/software 
+Reusing the code in a project
+
+Method:
+Fork a Repository: User creates a copy of the repository to their own GitHub account, the steps for the same are covered in the next section.
+Code changes: This involves git cloning, which is the next chapter of the Git Tutorial series. But on a high level, the user makes the changes and push back to their own forked repository.
+Send changes to Original Repository: This process is called as Pull Request in Git. At this step, the user sends the changes to the owner of the repository as a request. Now it is up to the owner to accept the changes or reject. Pull request is a request to the owner of the upstream repository to accept the user changes.
