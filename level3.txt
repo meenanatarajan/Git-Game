@@ -1,0 +1,1 @@
+You fork a repository to create a copy where you can experiment and make changes without affecting the main repo. In the upper-right corner of GitHub, there is a button called 'Fork' which allows you to create a fork of a repository.
