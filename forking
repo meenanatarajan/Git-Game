@@ -1,0 +1,2 @@
+We fork a repository to have a local working copy that does not affect the remote repository until we create a pull request to be approved.
+This can be done via GitHub by accessing the repository and clicking "Fork" on the right hand side.
