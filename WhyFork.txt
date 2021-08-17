@@ -1,0 +1,1 @@
+Repositories are forked to create a personal copy so that changes are only made on your copy. Simply clicking fork on the top right forks a repository.
