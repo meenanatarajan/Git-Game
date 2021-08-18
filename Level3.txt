@@ -1,0 +1,4 @@
+
+We fork a repository to create a working directory for us to experiment on.
+We click on the fork icon on the right corner in Github repo that you want 
+to fork.
