@@ -1,0 +1,3 @@
+This is a new text.
+You fork a repository to your local repository so you can have a copy.
+You click the fork button on the top right at the repository that you want to fork.
