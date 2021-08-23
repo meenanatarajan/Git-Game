@@ -1,3 +1,3 @@
-To create a copy of the repository and makes changes without affecting the original repository
-Fork a respository by going to the top-right corner of the main page where it says "Fork".
+To create a copy of the repository and makes changes without affecting the original repository.
+Fork a repository by going to the top-right corner of the main page where it says "Fork".
 
